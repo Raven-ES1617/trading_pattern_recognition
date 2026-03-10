@@ -1,0 +1,44 @@
+{
+  "input_files": 4739,
+  "kept_files": 3742,
+  "quarantined_files": 997,
+  "kept_per_label": {
+    "ascending_triangle": 320,
+    "bearish_flag": 280,
+    "bearish_triangle": 279,
+    "bullish_flag": 247,
+    "bullish_triange": 222,
+    "cup_and_handle": 296,
+    "descending_triangle": 242,
+    "double_bottom": 292,
+    "double_top": 261,
+    "falling_wedge": 264,
+    "head_and_shoulders": 308,
+    "inverse_head_and_shoulders": 215,
+    "pennant": 293,
+    "rising_wedge": 223
+  },
+  "quarantined_per_label": {
+    "ascending_triangle": 30,
+    "bearish_flag": 40,
+    "bearish_triangle": 69,
+    "bullish_flag": 73,
+    "bullish_triange": 128,
+    "cup_and_handle": 54,
+    "descending_triangle": 108,
+    "double_bottom": 58,
+    "double_top": 89,
+    "falling_wedge": 48,
+    "head_and_shoulders": 42,
+    "inverse_head_and_shoulders": 120,
+    "pennant": 57,
+    "rising_wedge": 81
+  },
+  "quarantine_reasons": {
+    "bad_aspect_ratio": 67,
+    "exact_duplicate_cross_label": 457,
+    "low_information": 16,
+    "perceptual_duplicate": 439,
+    "too_small": 18
+  }
+}

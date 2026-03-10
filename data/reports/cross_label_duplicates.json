@@ -1,0 +1,4359 @@
+[
+  {
+    "sha256": "ae31270a082173ac8a012e5554148da93c52673d17c16c001ccbf20e7867908f",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0015.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0026.png"
+    ]
+  },
+  {
+    "sha256": "6d4d8582461408a209d1f26d1b0b1f6a2107d062864e74ddea8bde78f6b7d8de",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0016.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0027.png"
+    ]
+  },
+  {
+    "sha256": "ee7ba9b9160cd097cfd086c4ccddffc6daa1403cab8656a56a9a34027e7fbbf3",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0038.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0289.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0035.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0163.png"
+    ]
+  },
+  {
+    "sha256": "93aa0fbbf3b13be540f1a3dc48ee238df96bb9f829015a32def8bd76aff629b9",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0045.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0032.jpg"
+    ]
+  },
+  {
+    "sha256": "ec8348f95ac863d41fb77e622cdb72cf38750546ee71c4316610c8276260c808",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0049.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0112.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0004.jpg"
+    ]
+  },
+  {
+    "sha256": "be22f697537904751cf083612fcede8a36ccdf7e1b7f0759a60eb8d042317740",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0050.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0043.jpg"
+    ]
+  },
+  {
+    "sha256": "3300d8f88790e09024bceac43dbdebec554ce2f223ffebe3eaf520b949586fad",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0051.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0019.png"
+    ]
+  },
+  {
+    "sha256": "31fa52d91c8ea52f1790e17558d9985d0e6c61e4b97a13c68dfecc9e9a6a0a22",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0061.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0022.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0223.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0041.png"
+    ]
+  },
+  {
+    "sha256": "373b509b1dc1f7c950e474ca875142b3a7fdc27899877bb29f5f836221ad3d35",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "descending_triangle",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0062.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0048.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0042.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0076.png"
+    ]
+  },
+  {
+    "sha256": "65814588a54584d2e23ee30775de41f24539ffa7b8d8421456a7b30c7be80f68",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0077.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0058.jpg"
+    ]
+  },
+  {
+    "sha256": "96717135a91b89aa5426336aea1f9a5cb1d9a0ed66cccb94d645d38d5dffbba7",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0080.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0017.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0008.jpg"
+    ]
+  },
+  {
+    "sha256": "9999e26547540053b7697747cf0d664b929c59d5822f3e8d068e6f59ae4f48e7",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0090.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0005.jpg"
+    ]
+  },
+  {
+    "sha256": "2d5ff7c8fe5bf5a3f731ba276a5df5e841d8d3b4c94af570e6ed8749ea6913ee",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0092.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0116.png"
+    ]
+  },
+  {
+    "sha256": "9cd1211b29e660a95ddc60b5f9504552a0b660965152f98d1f9291bd488d3c74",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0099.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0038.png"
+    ]
+  },
+  {
+    "sha256": "23975f07281cbf5bc15573f3e68ea02f97254e682945fbf061a4e80fac593b83",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0103.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0042.jpg"
+    ]
+  },
+  {
+    "sha256": "c7c2e9b0ec6b5708d06b026b4a7b54b335daaa740fa2b070d263906a39071e8b",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0104.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0044.jpg"
+    ]
+  },
+  {
+    "sha256": "9aed5c9393023796035d2bc523cbeed0ff6519d9137dcd872485bf2c4dd99960",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0107.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0014.png"
+    ]
+  },
+  {
+    "sha256": "ed6930d38b26494a713cb6414fd1e6f226ecee3fe2ca239b431a2788be3799dc",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0108.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0108.png"
+    ]
+  },
+  {
+    "sha256": "c8ffb988ef4894f8691cd57c2dcf9fcba5e370e37d6afdd9a01650144ce0601f",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0112.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0219.png"
+    ]
+  },
+  {
+    "sha256": "3eaefaf500be508ebacba82b33ce41268d60c7ef8f9413b2078f5d1dac1a9229",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0117.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0033.jpg"
+    ]
+  },
+  {
+    "sha256": "ee5fdce83109d87f5a17db9ad375ba35dd9ff448ec73f32dc946c2125ea9719c",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0120.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0161.jpg"
+    ]
+  },
+  {
+    "sha256": "fdcd6a7801fd7d33f6de36e4acab81d5820932b7f168d8d2e2702ba9a3a56588",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0130.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0068.jpg"
+    ]
+  },
+  {
+    "sha256": "50dcbf960a5f5c9248633ac76e1963f14b58c83d514f7238d721859fedce3651",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0131.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0188.jpg"
+    ]
+  },
+  {
+    "sha256": "d3669ba6f36ebc850eec985fd8ddb6c78ef9f36274b08f2142616fa47f2519bc",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0132.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0016.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0174.jpg"
+    ]
+  },
+  {
+    "sha256": "749ad8d2152fd97b83079ef466d1c129395d070f81e8979238a88df5c983b561",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0135.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0072.jpg"
+    ]
+  },
+  {
+    "sha256": "d6704f463ed43940dfc232f24ba8f6edb4b0b542ddb4e86db20b1f8b3070516d",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0143.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0111.png"
+    ]
+  },
+  {
+    "sha256": "10b284388839fc065a040e717270fb859bcfe6409ef233232e641680b8302607",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0152.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0123.webp"
+    ]
+  },
+  {
+    "sha256": "d6edc2c96b46943e086c034f5bf67c236d1e4934b293e82128f2ab3f87170349",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0163.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0169.jpg"
+    ]
+  },
+  {
+    "sha256": "3aa57e203af1856b0be2b0544eb73fe2428f16c1305f685d4341be70cad1f126",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0165.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0015.png"
+    ]
+  },
+  {
+    "sha256": "f0e9d7f49cc881c144ea5fd69b749ad10f12d81d32137c1453e0ee18094a7e4f",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0168.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0139.jpg"
+    ]
+  },
+  {
+    "sha256": "27c6f2d24cbf671e01c8f1992d41d958616733d3f01f8c3a3613f0a0c96b6ed6",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0173.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0056.png"
+    ]
+  },
+  {
+    "sha256": "51736d44dfa1be4ea377dc817a0c57f1aa52015446fc70af2aade284395345c5",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0176.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0059.jpg"
+    ]
+  },
+  {
+    "sha256": "fb071864bd403f147cc76e5dc0837c8d571d12401076e82d6bc3d13fe7b4a2b1",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0179.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0180.jpg"
+    ]
+  },
+  {
+    "sha256": "acc51ebeae5df48c0211ecd5ed2e5ab1a0f5eb8354768cb44343dd24f2e97a82",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0180.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0145.jpg"
+    ]
+  },
+  {
+    "sha256": "26aaa0d348eaaa8bd9120f6194a92138e3ce3b30d1c741c6717f80a682156c0c",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0181.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0063.jpg"
+    ]
+  },
+  {
+    "sha256": "6da0261baa0c2620f33ff733b2d824613d2fcd35eee6921a5b00359a7e7a9fd6",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0182.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0153.jpg"
+    ]
+  },
+  {
+    "sha256": "3c62d030a02755746582e0a8694116ce44c37e8ca497a855df3b8d92f249381c",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle",
+      "double_top",
+      "falling_wedge",
+      "inverse_head_and_shoulders",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0188.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0272.png",
+      "data\\raw\\double_top\\double_top_0334.png",
+      "data\\raw\\falling_wedge\\falling_wedge_0245.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0262.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0238.png"
+    ]
+  },
+  {
+    "sha256": "bff4528b177b43b5488a612e2edc1474b036bc95f5938015d9bf79c1283fb998",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0190.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0034.png"
+    ]
+  },
+  {
+    "sha256": "80f71daa58fc32c961e131223b6c97fa3f83a9539af0543dd39435898d720445",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0200.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0195.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0036.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0161.png"
+    ]
+  },
+  {
+    "sha256": "cf52eed45aa46d4cdf3ae810e735f1735475abafd87883ace45a2216ffabdd4d",
+    "labels": [
+      "ascending_triangle",
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0201.png",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0035.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0025.png"
+    ]
+  },
+  {
+    "sha256": "685f08c654504bf798d1d5a4e27032564e4c76f8dbf002d521d9ab8976ec5547",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0208.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0207.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0168.webp"
+    ]
+  },
+  {
+    "sha256": "1eff83764af65d10517ca359983a42f644189c9e7bc9039cd8a4e7d65aba0ab9",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0210.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0328.jpg"
+    ]
+  },
+  {
+    "sha256": "7be20d96ff68c4ff874e677ced149a6ea0dc5526b544859fc0ab590ebd3cef22",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0211.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0170.png"
+    ]
+  },
+  {
+    "sha256": "24202daef21b10fad23b636705cf37e82baae9f7ddf96c7a556719533197b295",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0225.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0187.png"
+    ]
+  },
+  {
+    "sha256": "c157b5b5c1777c9cab31918b6c0ed09fca70d81bc6c6db955a565e9e95904c48",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0233.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0198.png"
+    ]
+  },
+  {
+    "sha256": "0249b117fd6d1d8b531cf778190f3e3c1dbd85d0f21ef3603156aea0074c38e5",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0235.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0218.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0188.png"
+    ]
+  },
+  {
+    "sha256": "97a3fa43d5dfe083d678019482eb48ab65d4fbf270c9dc1f2cb39f2ae9d7ddc8",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0237.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0220.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0051.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0200.png"
+    ]
+  },
+  {
+    "sha256": "9b5c700d22eaf43b4b58099bc3fffad788eea2d0d0d9394da89dbaad19400b0a",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0238.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0223.png"
+    ]
+  },
+  {
+    "sha256": "8203c11e157061b0675831268520983c9b60d538b31bfb3204293aac9d043a1c",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0241.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0208.png"
+    ]
+  },
+  {
+    "sha256": "4dbf44c75f7bbd42e4d5fa0877bf91baf98c3fc537a4e9f3f44d848951d13003",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0242.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0150.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0122.webp"
+    ]
+  },
+  {
+    "sha256": "a0d25661ba2718644b2b90ab2eff6f12fd93168ab20cac241b781c80b1eb2916",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0243.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0209.png"
+    ]
+  },
+  {
+    "sha256": "33a3a216cfa841d072889eacb75d0499cb32962345f8d6e779d8ee8a1c05ae47",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0247.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0236.png"
+    ]
+  },
+  {
+    "sha256": "0326629ce9877fbf0d6ae382c2e5d32120406305f79410481651ac32396aae20",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0250.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0213.jpg"
+    ]
+  },
+  {
+    "sha256": "9ff9a988b11ed36672dd68d921e10a328130fddf66b210ff37a82eb5664d8555",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0263.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0253.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0248.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0225.png"
+    ]
+  },
+  {
+    "sha256": "3e16f649920b8d73d5d8cf2aca696c7778e462a02800210b6e2cb72e95637034",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0264.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0255.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0249.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0226.png"
+    ]
+  },
+  {
+    "sha256": "2a8d0d21bfe92c2df13320ca24406ead3a7a51f1fc27dc9f9f6376cef0d563df",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0265.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0285.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0272.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0247.webp",
+      "data\\raw\\double_top\\double_top_0283.webp"
+    ]
+  },
+  {
+    "sha256": "30347c66cc731f5e821b2989853b3c9f38141dbec4eac661efae18c9e4e39f68",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0266.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0256.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0250.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0227.jpg"
+    ]
+  },
+  {
+    "sha256": "1a57da32b97c80fd58d2c0734836afeb3058c68e61fb398bacb97f8f219d64ef",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0267.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0257.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0253.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0230.webp"
+    ]
+  },
+  {
+    "sha256": "b1bd114f97889da8ee5a1c7c376293bb880ee36f0c8d4c39ac6a1ecf8eabb0f2",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0269.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0295.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0260.jpg"
+    ]
+  },
+  {
+    "sha256": "4e4d10f4e1af8c9c567fc41396258ad6b27e30d036f65df8e3da58ebde222b03",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0270.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0291.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0277.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0254.png"
+    ]
+  },
+  {
+    "sha256": "2f722e5bd5b9a47425c78ef700ad2b52b4f7a5ee2d4b3384df0bd040a4c9fca2",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0274.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0261.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0259.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0234.jpg"
+    ]
+  },
+  {
+    "sha256": "ad2f0ae398148ac9809bc889e84577dba04d1ae67e4e3bc6156252a770de24be",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0277.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0266.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0262.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0238.webp"
+    ]
+  },
+  {
+    "sha256": "41d8e46b4a414e2587a460b60a0ccd80ff838e39189bd933d585af2b289adfbf",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0278.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0268.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0263.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0239.webp"
+    ]
+  },
+  {
+    "sha256": "10febbc9f6d0ff1ead3d04ed6feca5000e09daad2c561075eaed10d8f1a29860",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0279.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0271.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0265.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0240.png"
+    ]
+  },
+  {
+    "sha256": "77930b551ad412a52057fc0770a1c762368e00c1fd1f7210c460f9d747fb276e",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0280.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0282.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0267.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0241.png"
+    ]
+  },
+  {
+    "sha256": "6629ea8a2ab3861798e8a3186818ae924be32a3791166e2f7a1ab60d5bf107ec",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0281.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0243.png"
+    ]
+  },
+  {
+    "sha256": "2a75f647758419adf1b2122082a65e0f4207fd2b49d4d0da605d6281d13e3267",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0282.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0244.png"
+    ]
+  },
+  {
+    "sha256": "a37f4e4126a188c2151011d50b7d18499afc96a47838806afaa8382284cd015e",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0283.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0280.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0271.jpg"
+    ]
+  },
+  {
+    "sha256": "20ed41989c21d42b076ca6601bbf566d81559ed3a6acd8ab87f7aa02cdc9880f",
+    "labels": [
+      "ascending_triangle",
+      "bearish_flag",
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0284.png",
+      "data\\raw\\bearish_flag\\bearish_flag_0221.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0293.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0217.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0279.png",
+      "data\\raw\\double_bottom\\double_bottom_0330.png",
+      "data\\raw\\double_top\\double_top_0298.png"
+    ]
+  },
+  {
+    "sha256": "170094815301267b7c9577b0af18a6bb8c3311838d096f84a95732b7a35d1016",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0285.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0258.jpg",
+      "data\\raw\\double_top\\double_top_0300.jpg"
+    ]
+  },
+  {
+    "sha256": "ea1de9193fb3250a0df445b804cf05b936a3a54dc8dd05006762313e31e9b19a",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0286.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0298.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0285.jpg"
+    ]
+  },
+  {
+    "sha256": "48fe9993de8fff5b41d89c375b678d05944260039bc46c4e04c2c2bd36187e6e",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0288.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0300.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0286.png",
+      "data\\raw\\double_top\\double_top_0301.png"
+    ]
+  },
+  {
+    "sha256": "d4440406aa737d506437536eb234382e64a290a02100cd7b8bcee614f14ff55b",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0289.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0251.png"
+    ]
+  },
+  {
+    "sha256": "836158b4dbc1ff42e5c495c1016f52f546302e1e006b9e605ba76b22578fb8df",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0290.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0252.jpg"
+    ]
+  },
+  {
+    "sha256": "4aa7b371d56a61f798b8596c9e3c1cba2faaf6b2150bf6102d3dca52a301db86",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0291.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0253.jpg"
+    ]
+  },
+  {
+    "sha256": "f96ac25a008a2e4693a58a87bf4ea70cb4776db7f46bb09d06f0e79de5cb4810",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0292.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0289.png"
+    ]
+  },
+  {
+    "sha256": "549967e14eeb90425aee647c0825a3ea5cafb1fe6645811ca4de541e3d6fb8cf",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0293.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0256.png"
+    ]
+  },
+  {
+    "sha256": "08a5251bc835eb03cdbdfab31f07db2b48519e899acb717dfbd8be586eb9ffcd",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0294.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0316.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0263.jpg"
+    ]
+  },
+  {
+    "sha256": "ae3f7cf5b48fdd66dd555f784c067f0a0281ccddb09d78c33e1f644c7428ef4c",
+    "labels": [
+      "ascending_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0298.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0297.jpg"
+    ]
+  },
+  {
+    "sha256": "bfdbae7f86cb820c187b1d6ee7b3f162c97e8331da28d3ba29db776d1c1474c1",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0299.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0313.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0299.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0266.png"
+    ]
+  },
+  {
+    "sha256": "71116717f526f0cbc4f517f1bb6c8e7af8b2edda8881972cd8333430fa3dbbce",
+    "labels": [
+      "ascending_triangle",
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0303.webp",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0306.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0303.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0262.webp"
+    ]
+  },
+  {
+    "sha256": "6ab910f3a2e6918ede71e7cf2b7c562b72b8c61ae7817fd581d8f04c1626f2ae",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0307.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0302.jpg"
+    ]
+  },
+  {
+    "sha256": "43bd54c987603d849038684eac13eeeba861b51e1903d9d366fae1cbea6c0fa4",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0329.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0295.png"
+    ]
+  },
+  {
+    "sha256": "938ecf471cff6016944ae5fa3b2f82b7e3673a0feec7fad2ffe33a8de78f5fd8",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0336.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0270.jpg"
+    ]
+  },
+  {
+    "sha256": "22c44474ab7d7a6d5260b196979b54b876c7853be0ddbf755ea1274cb1930677",
+    "labels": [
+      "ascending_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\ascending_triangle\\ascending_triangle_0345.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0119.png"
+    ]
+  },
+  {
+    "sha256": "310202b8d4ea0e790ee4ba8575b5430213b60954adb0779286f57c8e8c42e09a",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0003.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0267.png"
+    ]
+  },
+  {
+    "sha256": "a2f690a3a45a1ce1a362419d6483ec388df0a74d82bc0bc20ac894c1a9498729",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0004.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0002.png"
+    ]
+  },
+  {
+    "sha256": "4988ab0d82775a3652e0319eb525097f075e1d28f70d9c743e9ac8419e040912",
+    "labels": [
+      "bearish_flag",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0015.jpg",
+      "data\\raw\\pennant\\pennant_0025.jpg"
+    ]
+  },
+  {
+    "sha256": "76fc219b53ec2850a320428fea77c7b99bff21ab90cfef140018f9e6bf267d7a",
+    "labels": [
+      "bearish_flag",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0021.webp",
+      "data\\raw\\pennant\\pennant_0005.webp"
+    ]
+  },
+  {
+    "sha256": "ce251a50c035c6089cf1504c04c99a9f34b9a263039a774268ea0d5003bbb0ab",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0022.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0032.png"
+    ]
+  },
+  {
+    "sha256": "8b6b9284670cd97b46e1bcaf7650a7d5990d623f12396c202e4d3f4fd5fcd699",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0023.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0033.png"
+    ]
+  },
+  {
+    "sha256": "cebe2fa0e979d9a2e2fd0f3fcfffcf22cf5305405b72d072a7ca68c267db1277",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0038.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0083.png"
+    ]
+  },
+  {
+    "sha256": "83305df9851d7100b55441bf36b99bb01b0914f5e6cf0d51febe83f5ffa91a2f",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0039.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0173.jpg"
+    ]
+  },
+  {
+    "sha256": "a1b66f414c55238ab85de90295ff97fa49eeb0817956bcc16277d12fb455758e",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0049.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0281.png"
+    ]
+  },
+  {
+    "sha256": "9a131c2d335e49bc65e1a181efc1dc925458fe9f55e8d579cd8652c86feb43bd",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0052.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0145.jpg"
+    ]
+  },
+  {
+    "sha256": "f19f96a10240a7244d6e79329ff3737206d3d7a6cfb6a0ad0271b952df90c73a",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0074.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0130.png"
+    ]
+  },
+  {
+    "sha256": "8c918cd110fd220026038ecd14e08298f793d0dd9d503a5a59aa3759390f07c5",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0077.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0078.png"
+    ]
+  },
+  {
+    "sha256": "cc8eb80e8fe10a60274ba20fb536f3a9cc6b68c26a1c35ce20f36c5d1b7cf9f9",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0081.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0224.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0301.png"
+    ]
+  },
+  {
+    "sha256": "51912ae6d2b9cd27c9631121830811c19503482f8cc3b95633565b5f18efe5be",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0090.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0238.jpg"
+    ]
+  },
+  {
+    "sha256": "b4f4e753979e8d9ab1009c77526daa250e0dced5e502cef36abf779d7ffeb75a",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0091.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0152.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0053.png"
+    ]
+  },
+  {
+    "sha256": "7492188727817944a2890c08a50761696f96482ec279acf007c645ba6b690f24",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0095.webp",
+      "data\\raw\\bullish_flag\\bullish_flag_0125.webp"
+    ]
+  },
+  {
+    "sha256": "66479a94b3b1ca5dfade6194109a85b55c454f383747f20f0f318ddbcd7fb0cb",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0096.webp",
+      "data\\raw\\bullish_flag\\bullish_flag_0110.webp"
+    ]
+  },
+  {
+    "sha256": "1cb19e19b09d899e9a4066e0785f44a6606a0e8e44f606f90b48152351b1fe18",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0115.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0161.jpg"
+    ]
+  },
+  {
+    "sha256": "207f15009fc25468b6c4db0f42ce19589cb8c11d9890611cd7cca18942fab6e3",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0118.webp",
+      "data\\raw\\bullish_flag\\bullish_flag_0186.webp"
+    ]
+  },
+  {
+    "sha256": "e3c30fca1b04513c6b3de5093bebc362b07ef1fd3c406eeb7c21a61685e61100",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0119.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0073.jpg"
+    ]
+  },
+  {
+    "sha256": "68e94da364a7017ab0907af16cac697b375c258c1fc14deb40f4a84f0a6725aa",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0132.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0186.jpg"
+    ]
+  },
+  {
+    "sha256": "aee7fdf475627d3f30fdcb7355c18065c0319c3be9a3d7c6f2f65e6bf963d4df",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0133.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0188.jpg"
+    ]
+  },
+  {
+    "sha256": "7b6d3930aecb82d00551f3ca787d5b8ddb48a0c76a37fbc1eb90944f5bc8e5af",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0134.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0189.jpg"
+    ]
+  },
+  {
+    "sha256": "33761ceb30104c5b7faf0dfd9c5cf0e76abd3b40b61ef73e36d698a1c8613df9",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0143.webp",
+      "data\\raw\\bullish_flag\\bullish_flag_0103.webp"
+    ]
+  },
+  {
+    "sha256": "71db7ee24aca2c026b03b356b3a65ce9f3062b64a9bf50baefa1fe5e6a4b94f1",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0148.webp",
+      "data\\raw\\bullish_flag\\bullish_flag_0054.webp"
+    ]
+  },
+  {
+    "sha256": "533c4b56cc8cd72b590c932602415a37eaa650f10bafb0eb08444a2fc9232fcd",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0156.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0137.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0183.jpg"
+    ]
+  },
+  {
+    "sha256": "5f5513b48a62152deb88c06b115a2575bfcb8b0c483d5aee2d11c9b4b02a3082",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0165.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0168.png"
+    ]
+  },
+  {
+    "sha256": "8b1bc91a6b64b870f9937d19c32ef62990aa9b19e59c20e5458ea525f20d3510",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0177.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0180.png"
+    ]
+  },
+  {
+    "sha256": "cbeaa14d7f167a914303a6e0775c30475fd93172140316183084ee1237fb2ed1",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0180.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0232.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0235.png"
+    ]
+  },
+  {
+    "sha256": "3a510458a892d115521d18f29bc4f9e19d9797fd4fca3507a33b7e6d55c8466f",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0184.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0242.jpg"
+    ]
+  },
+  {
+    "sha256": "0bd398f383a83a902bab03e7890e69c537576c8ba840ca7810e15e564d3597e0",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0187.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0187.jpg"
+    ]
+  },
+  {
+    "sha256": "454468b3dd76381a4be92d960825db0329f73cdca7fff8b6138cb769eadffd04",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0190.jpg",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0249.jpg"
+    ]
+  },
+  {
+    "sha256": "f6921f8feff933dd8cdfebe57cb72ec34a441ac3b13adc13c987440a94e6a074",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0191.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0191.png"
+    ]
+  },
+  {
+    "sha256": "43a7707767cec2c48752c97bb24a891c8b1361d8496713863d05239f3810920c",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0196.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0192.jpg"
+    ]
+  },
+  {
+    "sha256": "c1a2b17a3bc501665fae0b64cced91308ba84c70d4171c7d3d6796fb582be8b5",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0206.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0297.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0258.jpg"
+    ]
+  },
+  {
+    "sha256": "5387e6a0a822b811601240f33fc00a2493bbc87e89e67452b6d08c842a5adfe8",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0207.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0298.png"
+    ]
+  },
+  {
+    "sha256": "6509caac3ca1f2cf0ba809a3ddd68b8ed0e2f7e19a2abe38f075256d8b467f13",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0210.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0205.png"
+    ]
+  },
+  {
+    "sha256": "b330fd3480eb84cd355c075795cf84f5e2cae1526627c52f202613274cf6d988",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0215.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0210.jpg"
+    ]
+  },
+  {
+    "sha256": "4452d5a879777da8a41d3c9cb689982d10170d395398c917b35b771786fd979d",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0216.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0211.jpg"
+    ]
+  },
+  {
+    "sha256": "678cc0c845d73dd93d9fb0a82f351a30231190914a644630ffc98c262d76bd8a",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0217.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0272.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0212.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0266.png"
+    ]
+  },
+  {
+    "sha256": "aaa56841a48d7a867662dfab8841e92da8e0814f73c189cf99c0f10d3f5822f0",
+    "labels": [
+      "bearish_flag",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0220.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0077.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0050.png"
+    ]
+  },
+  {
+    "sha256": "816454f29f7d02508eec5cc2e6e5ee857c0b900656d6b6336cc9b5be94737f63",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0224.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0220.jpg"
+    ]
+  },
+  {
+    "sha256": "0c5b119647fbed1316c2bab5c0474c3767e44866ef1854b5c9442f76be557650",
+    "labels": [
+      "bearish_flag",
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange",
+      "descending_triangle",
+      "double_top",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0256.png",
+      "data\\raw\\bearish_triangle\\bearish_triangle_0156.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0248.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0121.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0343.png",
+      "data\\raw\\double_top\\double_top_0208.png",
+      "data\\raw\\pennant\\pennant_0116.png"
+    ]
+  },
+  {
+    "sha256": "932af7ff60a9e7e1e39d42bfba3476b9c90a376a190fa30006df2dad1c6b7ada",
+    "labels": [
+      "bearish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0260.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0167.png"
+    ]
+  },
+  {
+    "sha256": "3287125d8f94f0248ab8133c26c83fd628d8e9a077f9d81fe5f84b800dc9ef4b",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0313.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0015.jpg"
+    ]
+  },
+  {
+    "sha256": "ce38e4e6843f52940de3cb7aba190453bfd573f2ba382ab40b5ed835ccdfadff",
+    "labels": [
+      "bearish_flag",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_flag\\bearish_flag_0320.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0008.jpg"
+    ]
+  },
+  {
+    "sha256": "a18fc3ba42a46c2da35d916cdefef958d3ef9fdc03ed1f631f00cf152c12de56",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0002.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0138.webp"
+    ]
+  },
+  {
+    "sha256": "e388f2eb2f76de43c1571dbd60d54018f6d3c5c7691d0392f206a8bf2c726df5",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0010.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0001.png"
+    ]
+  },
+  {
+    "sha256": "13c0c342f60e72b12cbf7e84365a1d45016cf5a5875f254a76ae76241e0fd330",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0011.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0002.webp"
+    ]
+  },
+  {
+    "sha256": "ac4b59ec0375d222fc6c2ea4bc3c95c31d21cddb0cc16f9b6ecd3a806e7fb250",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0012.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0003.webp"
+    ]
+  },
+  {
+    "sha256": "370c232fe6a48e4cd885250f5dd631360090717c9c3bf01506c3a86e461a89ab",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0014.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0296.jpg"
+    ]
+  },
+  {
+    "sha256": "97e0a8cc94ef67b73bc9172b88bb1a12cdec73e848492fac3e2f6f3646e8a451",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0020.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0006.jpg"
+    ]
+  },
+  {
+    "sha256": "2d7e3204b6f77b5574222ec3fc82ce80515369995bb6aaf5492c7696092ae738",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0023.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0015.jpg"
+    ]
+  },
+  {
+    "sha256": "f35734e85a9520fbebfd218896d70d408fdaf19117367c1e20e10535bd1d7206",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0031.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0021.png"
+    ]
+  },
+  {
+    "sha256": "5776c65a14d8780aaf98d19db7916cab5c24559d30c07779e8842b21dd0c5636",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle",
+      "double_bottom",
+      "falling_wedge",
+      "inverse_head_and_shoulders",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0033.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0170.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0121.png",
+      "data\\raw\\double_bottom\\double_bottom_0110.png",
+      "data\\raw\\falling_wedge\\falling_wedge_0095.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0065.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0086.png"
+    ]
+  },
+  {
+    "sha256": "d5d28409fef96b1f106ec21315e9cdb98c84642e38bf3ea40c0f220f766fe204",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0035.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0033.jpg"
+    ]
+  },
+  {
+    "sha256": "9b5d8d10101a59184e540826b3ceb4f2f25a4108dd14530ad8949d31f8e78621",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0038.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0043.png"
+    ]
+  },
+  {
+    "sha256": "beb01dbbec8e5d2a642c3dac0d3ef218614f73b331aff4f52950a5d4c2a447e9",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0041.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0003.png"
+    ]
+  },
+  {
+    "sha256": "8c99262bf2f179f7ca41d2132d91a7ad92401f88425cd57afc83060c072b97c7",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0042.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0070.jpg"
+    ]
+  },
+  {
+    "sha256": "540142732c4ad4e5d8f8f585526c549ee05a35a315433b99cab1b27fcf0b65a6",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0044.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0071.jpg"
+    ]
+  },
+  {
+    "sha256": "272f541cac3dd4531c9c8300b802703304f5cb6dab689ee4c83aac9d54d265ea",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0046.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0040.png"
+    ]
+  },
+  {
+    "sha256": "6ba85f4a3f4336b49bc8371a52d9267d4cacd2b28651c7d4e6f1fff6c8c48b73",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0050.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0162.jpg"
+    ]
+  },
+  {
+    "sha256": "f0dcabccfd43088c110e58aee41864accbdb88b85170de5387e4cd00c12f4341",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0054.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0143.png"
+    ]
+  },
+  {
+    "sha256": "b2671c9f9df256b08dcc281b2c53237e6318217416bf05c97fc8a0a8ad8b27f3",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0056.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0053.jpg"
+    ]
+  },
+  {
+    "sha256": "7eba1c9f1c97368ee812343aa84ef470069115fe8437ee25e84822778f615db1",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0075.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0048.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0142.png"
+    ]
+  },
+  {
+    "sha256": "b28edbe05d3f8ef7fd546f0f0779ab5704129d73ce8c28f0342ec9233aea2457",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0086.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0149.jpg"
+    ]
+  },
+  {
+    "sha256": "b2678e2d570f6bb262e0839de6220346b334d0a5cc4dd69d7d465b4be74385bd",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "cup_and_handle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0098.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0101.webp",
+      "data\\raw\\cup_and_handle\\cup_and_handle_0203.webp"
+    ]
+  },
+  {
+    "sha256": "bc96107fc04da17dc925b64ff973f13870684c27de791103cf262832046cfc31",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0100.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0194.png"
+    ]
+  },
+  {
+    "sha256": "41380aa317bd84763a7c7179f327caf919d152d028186b60935b2000cb415a1d",
+    "labels": [
+      "bearish_triangle",
+      "bullish_flag"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0103.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0239.png"
+    ]
+  },
+  {
+    "sha256": "e2343e65afc806975cc090541d7b26ae4d4dcf422cb5846ea494dbaedc51a004",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0118.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0119.webp"
+    ]
+  },
+  {
+    "sha256": "99952ee84ca4bf6515f6367adc9fd43b016aab7aa9a1febb97b94ac08da18430",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0123.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0123.jpg"
+    ]
+  },
+  {
+    "sha256": "6c78de0ab961f75b05620458b8002f2c8ee44daa01f6ce9c9b32778a489f3db9",
+    "labels": [
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange",
+      "double_top",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0125.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0199.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0017.png",
+      "data\\raw\\double_top\\double_top_0317.png",
+      "data\\raw\\pennant\\pennant_0110.png"
+    ]
+  },
+  {
+    "sha256": "b5f288f89146fd4f8fdabcb6cc84331f2b950b8a9d2b11a898286520d04627b4",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0133.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0126.jpg"
+    ]
+  },
+  {
+    "sha256": "d0b1f64d370213116caeabc611be4e7d903dcd46e28ac16884aa52df4d898ede",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0140.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0151.png"
+    ]
+  },
+  {
+    "sha256": "f03d49e96b936f778412ab05e700ba6cc7b55b1f9eb30c2b9f01d25e26c277a5",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0153.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0164.png"
+    ]
+  },
+  {
+    "sha256": "73c42d6f3d428e0df212b4f5bc87bf039fd1b241aa8daa3bb50ab272579ec41b",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0155.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0165.png"
+    ]
+  },
+  {
+    "sha256": "daa2ef3f10648fdbd13069503ae4ddfa9b9fdf4fb9bbd79b59cc06a091c02226",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0157.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0166.png"
+    ]
+  },
+  {
+    "sha256": "ffd1e4f8aa8d99292da24bd11fbf1867fca1fe28fe312fa243647c2a2ce39843",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0159.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0175.webp"
+    ]
+  },
+  {
+    "sha256": "c5b864fb5b0a65b35bd8b503b317d79ac346baaa937dc74cf17aa976ccfa425f",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0160.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0232.png"
+    ]
+  },
+  {
+    "sha256": "ecf75a42fd56b06ec8cd669e3b98e2cca464d1a39f522a316e82eca0900ea25e",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0161.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0292.jpg"
+    ]
+  },
+  {
+    "sha256": "cd22f330a2dbffa44bc2b42f72dee8df3294d92ec01f2c76007825e0f2dbc9ae",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0171.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0246.jpg"
+    ]
+  },
+  {
+    "sha256": "5913bb86a377e45718cc8124af34663c855611d120b758f6fdf3f67cf77cb6fd",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0172.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0181.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0218.jpg"
+    ]
+  },
+  {
+    "sha256": "5924bad8a0555043ef93657d6862efaf9b6c64fe11fab798dae68a4265e8e7ec",
+    "labels": [
+      "bearish_triangle",
+      "bullish_flag",
+      "falling_wedge"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0174.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0139.jpg",
+      "data\\raw\\falling_wedge\\falling_wedge_0151.jpg"
+    ]
+  },
+  {
+    "sha256": "89e7d59614ec5c75c49ed6dffafd4d39ef8d3732d70114d512759d084fa0699e",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0183.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0024.png"
+    ]
+  },
+  {
+    "sha256": "a0ede122983c80f3a56cc882f759f8c46bb8e1b956a21df54d9e3d9471d9a3b4",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0194.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0169.png"
+    ]
+  },
+  {
+    "sha256": "954650d4e397e6c9865f99a8c56638811b779e3f72def12781cc7862d758eb4f",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0205.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0215.jpg"
+    ]
+  },
+  {
+    "sha256": "fefc491382443c76c9ee1f70d7b07f18489bce3e15d51b88691e5983dd885b91",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0206.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0155.jpg"
+    ]
+  },
+  {
+    "sha256": "2f052a466c001fd6e67555d794aebddafad9d168f90e089d418e2dc2474a1a45",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0207.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0217.jpg"
+    ]
+  },
+  {
+    "sha256": "63f19d57180a379be902bdb135244fe7572cc0a80fd3d915ed492603ce3c221b",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0210.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0210.jpg"
+    ]
+  },
+  {
+    "sha256": "885512c9a5f623a5590fb21c03daadbaca43803b2001a173b7f8a0849601331e",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0212.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0218.png"
+    ]
+  },
+  {
+    "sha256": "36323d1d0c67866b5e427c11b338a0870a45d9a13461c380a4022a17ebb7a3a8",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0217.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0196.png"
+    ]
+  },
+  {
+    "sha256": "794dc4429ce50bc18c6cd5fb95cbdd7706e3b0070161b3e199f823b063277d7d",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0219.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0224.jpg"
+    ]
+  },
+  {
+    "sha256": "e3033e1d6c653a824737fa0046acab66b1217c5908eb7a1bbe141055ccaa84e7",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0224.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0229.jpg"
+    ]
+  },
+  {
+    "sha256": "dc76e9a2fd7f4c118ddb8a58a1bda1122a8034ed7469651e600ad65308c954cd",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0226.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0230.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0205.png"
+    ]
+  },
+  {
+    "sha256": "b1756b0dd09e58b05c5ab5c6e56d31ca77c57eacb4a4e9ddf9a6250b9253261a",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0228.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0231.png"
+    ]
+  },
+  {
+    "sha256": "caace06f1737620893b41f3ae9ecc64458f27d5d76c31a79d322256a663a9d52",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0230.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0233.png"
+    ]
+  },
+  {
+    "sha256": "2d0fd523abb727f0542d78da202b9fa718c654188b3765b170aa8089ac05d5b3",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0231.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0234.png"
+    ]
+  },
+  {
+    "sha256": "e0efa33433aad27b59a4a7f3cce2b749c2dcff20e1b689c958ec09c9603e15aa",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0233.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0238.png"
+    ]
+  },
+  {
+    "sha256": "70ebca368c145143f88db07f0dee73acdb0a04b987cb5ef02622c3f42e0265e0",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0237.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0211.png"
+    ]
+  },
+  {
+    "sha256": "1123e5bba5dd8be462cae54a88b3460f6037546c158f5973d57c931a6a7cf761",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0239.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0239.jpg"
+    ]
+  },
+  {
+    "sha256": "185a5146f8692a5d0a0c984442c4d79f15b065cc372527639e5c7c3964310b13",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0240.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0217.png"
+    ]
+  },
+  {
+    "sha256": "c826a6dfb400e1d48acdbf76e9775fbdd6488b0c70597d24169796fa64851a77",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0243.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0184.jpg"
+    ]
+  },
+  {
+    "sha256": "4d3dbda30e55eb5befbd9b0ac1f671806028fda0bbcaa0e6150bad1177fe406c",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0246.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0243.jpg"
+    ]
+  },
+  {
+    "sha256": "869343abe909afe73d2606b505840bae5fa95aa1d89cf46690e4fbea41e34aee",
+    "labels": [
+      "bearish_triangle",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0254.png",
+      "data\\raw\\double_bottom\\double_bottom_0303.png",
+      "data\\raw\\double_top\\double_top_0265.png"
+    ]
+  },
+  {
+    "sha256": "1dc2c42f57b3b843071ea1d7107c7a26f055f338333adda226e302761f592d20",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0267.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0228.png"
+    ]
+  },
+  {
+    "sha256": "76c8563db544410b3a85e88291dd067c818086b33c5037810e582289c2533c6d",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0273.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0268.png"
+    ]
+  },
+  {
+    "sha256": "ef5d0f2c1d6bfcc082964c626d385e81929e16539a4c7ffe94469601c573ef89",
+    "labels": [
+      "bearish_triangle",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0274.png",
+      "data\\raw\\double_bottom\\double_bottom_0326.png",
+      "data\\raw\\double_top\\double_top_0290.png"
+    ]
+  },
+  {
+    "sha256": "ca6bff6ceea75fe4aff400d9af6596e96674512e27bbecac76aab47f1fd9d8e9",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0275.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0269.png"
+    ]
+  },
+  {
+    "sha256": "76581418b437f9a543d09ef9907129d8f3b919a6295cc8d4615ef3d253829660",
+    "labels": [
+      "bearish_triangle",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0277.png",
+      "data\\raw\\pennant\\pennant_0348.png"
+    ]
+  },
+  {
+    "sha256": "313ee6402d5a2543b7d44f0314084d733db57058768f24885f5d7ea8e6068680",
+    "labels": [
+      "bearish_triangle",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0279.png",
+      "data\\raw\\double_top\\double_top_0295.png"
+    ]
+  },
+  {
+    "sha256": "c7b55b0426d8a143f32e276401b5979dcae07304aaf6ddb91b9af734c96fb1e6",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0286.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0273.png"
+    ]
+  },
+  {
+    "sha256": "eb60c716a3ab667d7518098d0cfff1cec360e7564e98f41111a623ab17a2adff",
+    "labels": [
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange",
+      "double_bottom",
+      "double_top",
+      "head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0290.png",
+      "data\\raw\\bullish_flag\\bullish_flag_0215.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0276.png",
+      "data\\raw\\double_bottom\\double_bottom_0329.png",
+      "data\\raw\\double_top\\double_top_0297.png",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0307.png"
+    ]
+  },
+  {
+    "sha256": "b61d679c18b45eed213a9cc1f48b502fc9a38abbcc2c64751b97a8999213e90c",
+    "labels": [
+      "bearish_triangle",
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0292.jpg",
+      "data\\raw\\bullish_flag\\bullish_flag_0216.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0278.jpg"
+    ]
+  },
+  {
+    "sha256": "b97f2ac707c11cda9fa576579937df34b2ecd908eae703e6932f99122bcb2e01",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0294.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0280.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0249.jpg"
+    ]
+  },
+  {
+    "sha256": "e575b78c4b1117710e86f34ae1c6bc9d31cd61e961b975ffb164fbfad3e0c247",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0297.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0284.jpg"
+    ]
+  },
+  {
+    "sha256": "73b3d461254ca77f85c963a613697beaa2094a58fa08066c24508784366d313a",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0301.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0287.png",
+      "data\\raw\\double_bottom\\double_bottom_0338.png",
+      "data\\raw\\double_top\\double_top_0302.png"
+    ]
+  },
+  {
+    "sha256": "47955ba03e5041a6cba7ff9585ed6e8d1f9b80a5e23804f5fcc8fb1bf0e5c723",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0302.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0294.png",
+      "data\\raw\\double_bottom\\double_bottom_0339.png",
+      "data\\raw\\double_top\\double_top_0303.png"
+    ]
+  },
+  {
+    "sha256": "64cb7330d14d2a83aa1585ba5b69bba9e967999b7aaf5c21938b52f94e3f30d2",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0303.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0302.jpg"
+    ]
+  },
+  {
+    "sha256": "3e85fa5eb35c80263c74ceaca68ebc8a7916ead0036fe64c1492cb1cadb1f10f",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0310.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0290.png"
+    ]
+  },
+  {
+    "sha256": "697b5ea76399231f9fff7d9fa4300a1bd805fb0f44639926afd73434e7ad008f",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0318.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0304.jpg"
+    ]
+  },
+  {
+    "sha256": "7dbd5ebd92bde066569a9c6e302e9f0d9881a22f92728059f4d0b01ec749b40b",
+    "labels": [
+      "bearish_triangle",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0322.webp",
+      "data\\raw\\bullish_triange\\bullish_triange_0137.webp"
+    ]
+  },
+  {
+    "sha256": "b09b6e36dee493034429401e3d86b84b5b7d9296d3399fb22fe3f5ac00dddb69",
+    "labels": [
+      "bearish_triangle",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bearish_triangle\\bearish_triangle_0342.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0108.jpg"
+    ]
+  },
+  {
+    "sha256": "8695e00223a47bc90b67ae549f1f9a5c5290061fd826902624636ccfc5e3539f",
+    "labels": [
+      "bullish_flag",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0026.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0152.png"
+    ]
+  },
+  {
+    "sha256": "834584fd0925aeca3b374f9f9dbfb2818e8ed8214d73eaa7753ed6b9ffbf7ebb",
+    "labels": [
+      "bullish_flag",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0027.png",
+      "data\\raw\\pennant\\pennant_0051.png"
+    ]
+  },
+  {
+    "sha256": "bb9d027dff3acb6a2ccf959f7c7874ec519a1205b9c2217cc5d2123409aa64df",
+    "labels": [
+      "bullish_flag",
+      "cup_and_handle"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0028.png",
+      "data\\raw\\cup_and_handle\\cup_and_handle_0049.png"
+    ]
+  },
+  {
+    "sha256": "609dde28c8de2493798bbf0a4ac8323f51cb2ba55efb9702bc8097240e0ba847",
+    "labels": [
+      "bullish_flag",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0029.png",
+      "data\\raw\\pennant\\pennant_0050.png"
+    ]
+  },
+  {
+    "sha256": "4505252d260af23e55ff82565ea20d6e5f0254c70893add2da4475d94109cd1a",
+    "labels": [
+      "bullish_flag",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0030.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0028.png"
+    ]
+  },
+  {
+    "sha256": "01a4574f436ea1fd6b38ffe480cd4371f89156e97ec665d46dcd81297ae60a22",
+    "labels": [
+      "bullish_flag",
+      "double_bottom"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0046.jpg",
+      "data\\raw\\double_bottom\\double_bottom_0049.jpg"
+    ]
+  },
+  {
+    "sha256": "f0d7561f940f9da812f803e511cc124035326de903693150cc9c6f07110da9b4",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0141.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0189.jpg"
+    ]
+  },
+  {
+    "sha256": "5fa547d49a8b95d77a8c5a3bc54cb1490939237765d39436484d2aa25f4bb2ee",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0151.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0205.jpg"
+    ]
+  },
+  {
+    "sha256": "2bdc6b5c5873c269dc953d1ba4f0f9fe0eba75cfa89f4bc7796e5e8e7ded04c9",
+    "labels": [
+      "bullish_flag",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0174.jpg",
+      "data\\raw\\pennant\\pennant_0315.jpg"
+    ]
+  },
+  {
+    "sha256": "95f8b1f34157474e9e049b69583e8f711c1c80bcef5103e6668b91632ceac0f6",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0188.jpg",
+      "data\\raw\\bullish_triange\\bullish_triange_0241.jpg",
+      "data\\raw\\double_top\\double_top_0217.jpg"
+    ]
+  },
+  {
+    "sha256": "8b29d8a53cf52180a8a1bf1d61a75af4c67350eee304022cbdb1ada34e4efce5",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0203.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0261.png"
+    ]
+  },
+  {
+    "sha256": "8fd853a14226c5ad8eb674461be52d05d695d532e89e99f57ce90f94b03022db",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0213.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0270.png"
+    ]
+  },
+  {
+    "sha256": "605ec1dfc97bee0b9a202bb3615ec6964a26ec9374ac073958b9c2d0c239aa5f",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0214.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0275.png",
+      "data\\raw\\double_top\\double_top_0292.png"
+    ]
+  },
+  {
+    "sha256": "19e4f75a8b07ccf156ad4f3dd53858d3792a6f3620c8a9400ca7d233057ade62",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0222.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0074.png",
+      "data\\raw\\pennant\\pennant_0042.png"
+    ]
+  },
+  {
+    "sha256": "5a57ce8a7002388c47e4a58dc8e0de2978f7ae8476e7036896ea19ed7863f3ec",
+    "labels": [
+      "bullish_flag",
+      "cup_and_handle"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0253.png",
+      "data\\raw\\cup_and_handle\\cup_and_handle_0048.png"
+    ]
+  },
+  {
+    "sha256": "1bb900f1808f2cf198b8de4f677f9437f2003287341db37eb7b80e4f50b4f627",
+    "labels": [
+      "bullish_flag",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0270.jpg",
+      "data\\raw\\descending_triangle\\descending_triangle_0133.jpg"
+    ]
+  },
+  {
+    "sha256": "eca722d205cbbbe6de5efa14b257ce18cd8b4691b848febc4c8a04d085e94c92",
+    "labels": [
+      "bullish_flag",
+      "bullish_triange"
+    ],
+    "sources": [
+      "data\\raw\\bullish_flag\\bullish_flag_0296.png",
+      "data\\raw\\bullish_triange\\bullish_triange_0257.png"
+    ]
+  },
+  {
+    "sha256": "0dbfd184692d33c5cd7e176fc5e8723bf7dddf8f694cad75af4d9924c23108e3",
+    "labels": [
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bullish_triange\\bullish_triange_0247.webp",
+      "data\\raw\\descending_triangle\\descending_triangle_0229.webp"
+    ]
+  },
+  {
+    "sha256": "f7f86549c9dacb40c7412870bee9b8517c63ae5b83f03269e1b9fab1b9687c6e",
+    "labels": [
+      "bullish_triange",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\bullish_triange\\bullish_triange_0252.png",
+      "data\\raw\\double_bottom\\double_bottom_0305.png",
+      "data\\raw\\double_top\\double_top_0267.png"
+    ]
+  },
+  {
+    "sha256": "d9874b3868b50122b8c3e952a73be7b8ab05aae9a5bb5549a5ecdb8e97a63cc8",
+    "labels": [
+      "bullish_triange",
+      "descending_triangle"
+    ],
+    "sources": [
+      "data\\raw\\bullish_triange\\bullish_triange_0317.png",
+      "data\\raw\\descending_triangle\\descending_triangle_0201.png"
+    ]
+  },
+  {
+    "sha256": "dd51f02cc260281bd6f0dc0d82525787fb684194f1f900ef8b21d84402dcceb5",
+    "labels": [
+      "cup_and_handle",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0088.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0275.png"
+    ]
+  },
+  {
+    "sha256": "3689f7d4df820228937c8cba0ffbab3e1df437592672892dc7242a4816bc0cc6",
+    "labels": [
+      "cup_and_handle",
+      "falling_wedge"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0091.jpg",
+      "data\\raw\\falling_wedge\\falling_wedge_0289.jpg"
+    ]
+  },
+  {
+    "sha256": "2e7efd36c37cae5e503ddddc8b8769699c7373e0c56b018ff434dc71bf463f09",
+    "labels": [
+      "cup_and_handle",
+      "falling_wedge",
+      "pennant",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0098.jpg",
+      "data\\raw\\falling_wedge\\falling_wedge_0081.jpg",
+      "data\\raw\\pennant\\pennant_0189.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0080.jpg"
+    ]
+  },
+  {
+    "sha256": "61acf3a3136b8884a8dc8a0202bd939b17e3e81a0268e026aa0a067a3e856c03",
+    "labels": [
+      "cup_and_handle",
+      "double_bottom",
+      "falling_wedge",
+      "head_and_shoulders",
+      "pennant",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0113.png",
+      "data\\raw\\double_bottom\\double_bottom_0108.png",
+      "data\\raw\\falling_wedge\\falling_wedge_0096.png",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0088.png",
+      "data\\raw\\pennant\\pennant_0159.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0088.png"
+    ]
+  },
+  {
+    "sha256": "10fb02f392aab5c58519ce3aed35b8137b0726a7a1b21fa02d9f114bc4baa4ff",
+    "labels": [
+      "cup_and_handle",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0258.png",
+      "data\\raw\\double_bottom\\double_bottom_0343.png",
+      "data\\raw\\double_top\\double_top_0315.png"
+    ]
+  },
+  {
+    "sha256": "a0599cee7409e6e812064efab154125e08c7e082536f0311b8928c76f1dd7f71",
+    "labels": [
+      "cup_and_handle",
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0268.webp",
+      "data\\raw\\double_bottom\\double_bottom_0320.webp",
+      "data\\raw\\double_top\\double_top_0285.webp"
+    ]
+  },
+  {
+    "sha256": "93739c9fbe6778bea0c2980e32b13ef47bcc1b4de4f5fc3cc4eff7df84791629",
+    "labels": [
+      "cup_and_handle",
+      "double_top",
+      "head_and_shoulders",
+      "inverse_head_and_shoulders",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\cup_and_handle\\cup_and_handle_0297.jpg",
+      "data\\raw\\double_top\\double_top_0328.jpg",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0335.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0249.jpg",
+      "data\\raw\\pennant\\pennant_0133.jpg"
+    ]
+  },
+  {
+    "sha256": "bb52b93a5d3024b7b76d5319daf7fee2b180749d1469578a216a4f42947372d6",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0032.jpg",
+      "data\\raw\\double_top\\double_top_0005.jpg"
+    ]
+  },
+  {
+    "sha256": "866eb1589dc32bef533131e99c3a4750d9d09d421550e4ac8664428a5336bdd2",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0042.png",
+      "data\\raw\\double_top\\double_top_0147.png"
+    ]
+  },
+  {
+    "sha256": "a14f8f0b04c90599a628ee740967a393456fd0ff718c31d92186540fb850babc",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0050.jpg",
+      "data\\raw\\double_top\\double_top_0040.jpg"
+    ]
+  },
+  {
+    "sha256": "ebeccf2f522eaf84e8448f7fce72f3aa1b97f7f50a764f7a774629bdee07df6a",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0051.jpg",
+      "data\\raw\\double_top\\double_top_0048.jpg"
+    ]
+  },
+  {
+    "sha256": "6240bdbe20ccd4c3ee037545511bc0579965b9829530552fe387986c3fa7ac2c",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0059.png",
+      "data\\raw\\double_top\\double_top_0054.png"
+    ]
+  },
+  {
+    "sha256": "702c33a02c4fb8055cdbdad7cbaf20c36f946574f56bcc65746dc5a6937edddb",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0092.png",
+      "data\\raw\\double_top\\double_top_0094.png"
+    ]
+  },
+  {
+    "sha256": "b423fb43eb5c1b612374f6600ac6039d971e0d63827e0e79bf3814993c095582",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0094.png",
+      "data\\raw\\double_top\\double_top_0096.png"
+    ]
+  },
+  {
+    "sha256": "a2b3326a65120cf71aa8e6d611df7f145fa5c8e3afa63110b11c4b414f5930c0",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0117.png",
+      "data\\raw\\double_top\\double_top_0339.png"
+    ]
+  },
+  {
+    "sha256": "5d994bb87b1eec6d64d60906b5eb894d194993fad0608da89f5123ad58c0ab75",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0125.jpg",
+      "data\\raw\\double_top\\double_top_0105.jpg"
+    ]
+  },
+  {
+    "sha256": "71dbd299fa157c53318c02b47a58e9cf319c5d7ae24b5483cc677e0e0c698ed9",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0126.webp",
+      "data\\raw\\double_top\\double_top_0051.webp"
+    ]
+  },
+  {
+    "sha256": "9314794baca6cd37794267978e6c34bada9d258ae5368915a2c05d3a72d2910d",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0170.webp",
+      "data\\raw\\double_top\\double_top_0160.webp"
+    ]
+  },
+  {
+    "sha256": "ba3fd546cc8ac892d90cc485e1bd4180fca0ffeb0659a54456620f4c4ed0d357",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0172.jpg",
+      "data\\raw\\double_top\\double_top_0154.jpg"
+    ]
+  },
+  {
+    "sha256": "6ff6a5237bf1da8c983c792c5bca219053558e61019055db306248225b65de24",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0175.png",
+      "data\\raw\\double_top\\double_top_0241.png"
+    ]
+  },
+  {
+    "sha256": "8164f3e0233096aed1895e4de419ce08e780167fa88853d6f4a7df2ff0bef443",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0181.png",
+      "data\\raw\\double_top\\double_top_0164.png"
+    ]
+  },
+  {
+    "sha256": "78e1e8781d553f6c107f4596e9b18104b42c8b066737b3a0fab9dbc8882faa6d",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0246.jpg",
+      "data\\raw\\double_top\\double_top_0215.jpg"
+    ]
+  },
+  {
+    "sha256": "0dd5609ab35ec6f7cad1e25a20b3194c816d1f4be7b4f57b79573f2b424f5c88",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0258.jpg",
+      "data\\raw\\double_top\\double_top_0218.jpg"
+    ]
+  },
+  {
+    "sha256": "f82422f14824bdb9d2f5f23e3d3623d71ca7121689ce02795f941c62efc3dfe2",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0270.png",
+      "data\\raw\\double_top\\double_top_0038.png"
+    ]
+  },
+  {
+    "sha256": "4a73e64fb36aec819d6a0d2582c465cdfd62a1276ed67cdcf2274543e53b6b3f",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0271.jpg",
+      "data\\raw\\double_top\\double_top_0233.jpg"
+    ]
+  },
+  {
+    "sha256": "2fc2beda11bfa75649ad0d35e879f9a80f49603359d7d6af87a42226aa38efcf",
+    "labels": [
+      "double_bottom",
+      "double_top",
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0276.webp",
+      "data\\raw\\double_top\\double_top_0238.webp",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0243.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0184.webp"
+    ]
+  },
+  {
+    "sha256": "7439e5a1247008fb0592bd696ceb16e05c160a7de80ec98ff5b3b84e6d912598",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0278.png",
+      "data\\raw\\double_top\\double_top_0244.png"
+    ]
+  },
+  {
+    "sha256": "637d6fc8e351a87e18b82d252b93483d164260dc5e191f80d1239df395e27d61",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0281.png",
+      "data\\raw\\double_top\\double_top_0245.png"
+    ]
+  },
+  {
+    "sha256": "b8e1c7bf787b4de6ccfd3dd0024a33ecf35e68ce85ae2e75e39d202bd55fce25",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0286.jpg",
+      "data\\raw\\double_top\\double_top_0279.jpg"
+    ]
+  },
+  {
+    "sha256": "fd8900bba80083a4000f83df5f2dc5194549603b48952948ba05817c1f1ac254",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0299.jpg",
+      "data\\raw\\double_top\\double_top_0274.jpg"
+    ]
+  },
+  {
+    "sha256": "d138cb10b16345b09ea7ea08d01236dfa12cb830c0d4d229bb855bf283cfb67f",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0302.png",
+      "data\\raw\\double_top\\double_top_0264.png"
+    ]
+  },
+  {
+    "sha256": "b6691dd9382de17f8d835c11294625780139bd9fb1a0cd7de95f6e9656779030",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0304.png",
+      "data\\raw\\double_top\\double_top_0266.png"
+    ]
+  },
+  {
+    "sha256": "e1af696c675e89fad680f8656dd6ed7baae5ee1394763f1b805daacd2b4f75b1",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0310.jpg",
+      "data\\raw\\double_top\\double_top_0276.jpg"
+    ]
+  },
+  {
+    "sha256": "fa124037030cb275fa371273f60627c5d5d83e50ba2fcff63d417d7be18440ad",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0311.png",
+      "data\\raw\\double_top\\double_top_0277.png"
+    ]
+  },
+  {
+    "sha256": "3be883940a080517d26fa82ad3f60ae12ae9884fc4749135c09c04fe0c9e563b",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0312.webp",
+      "data\\raw\\double_top\\double_top_0294.webp"
+    ]
+  },
+  {
+    "sha256": "050f5e203c7b38c9387494bbc89165d758b8ff49dd8d50f76847cb81d7f2373c",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0314.jpg",
+      "data\\raw\\double_top\\double_top_0269.jpg"
+    ]
+  },
+  {
+    "sha256": "31931265cd2aa3bb49c3e1071dbe79d09259543bb5633804db3fe62aaebd0f44",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0315.png",
+      "data\\raw\\double_top\\double_top_0278.png"
+    ]
+  },
+  {
+    "sha256": "1849af5ce429d185b998b716120c4ace024d91cae695af028a94a51ec76044e7",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0319.webp",
+      "data\\raw\\double_top\\double_top_0284.webp"
+    ]
+  },
+  {
+    "sha256": "d585ae81d12145ca00b5d5c4bc51ea10da27142ea86e5d653609e967cf05834b",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0321.webp",
+      "data\\raw\\double_top\\double_top_0286.webp"
+    ]
+  },
+  {
+    "sha256": "23918f4e439fe8319ec66a96364f8d15ebce5e09c73de8cbe752f0ac5d505a08",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0322.jpg",
+      "data\\raw\\double_top\\double_top_0287.jpg"
+    ]
+  },
+  {
+    "sha256": "a91b84c655903ae132e161b46187261d12b856a7d2e237a282ee241b2d63f996",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0323.png",
+      "data\\raw\\double_top\\double_top_0289.png"
+    ]
+  },
+  {
+    "sha256": "07aefb72aab729b81dd55147b589fcf98522ba78845af84f8b930e28c7302e65",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0331.jpg",
+      "data\\raw\\double_top\\double_top_0299.jpg"
+    ]
+  },
+  {
+    "sha256": "dce53523e77d8240b5875f49149330cd2a96965af0613213d8bb6092ad0bcbcf",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0335.png",
+      "data\\raw\\double_top\\double_top_0316.png"
+    ]
+  },
+  {
+    "sha256": "5d5d4493d94d031a3b29fa9431f4923635397397d48c1625edad773f57169963",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0340.png",
+      "data\\raw\\double_top\\double_top_0304.png"
+    ]
+  },
+  {
+    "sha256": "c01541efc2c82c3676c33fb5371888b517e040172c9defe384511135716604b2",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0341.jpg",
+      "data\\raw\\double_top\\double_top_0306.jpg"
+    ]
+  },
+  {
+    "sha256": "8de9e53131314bb45fcd71c08c7b5f4f9a0dd4c6cf0d4dd1df52bad58bdd6747",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0344.webp",
+      "data\\raw\\double_top\\double_top_0312.webp"
+    ]
+  },
+  {
+    "sha256": "35865325ba736a4910910f779a1f08db17ac9823fdcdaa6a536dff3cc9d59c91",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0345.png",
+      "data\\raw\\double_top\\double_top_0310.png"
+    ]
+  },
+  {
+    "sha256": "522265583cf57df308ec98eafd9faa3ceb25186d61cdb4fe140393d584481352",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0346.png",
+      "data\\raw\\double_top\\double_top_0311.png"
+    ]
+  },
+  {
+    "sha256": "2a424a82a891cd538bbce20b1d9e6123492f43ba70dec8fa9d3ef8dcaac22a68",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0347.png",
+      "data\\raw\\double_top\\double_top_0314.png"
+    ]
+  },
+  {
+    "sha256": "a4195be28307d645eec11a5c7ce94f078c83527c5c60eae1c5982ae2a8e00710",
+    "labels": [
+      "double_bottom",
+      "double_top"
+    ],
+    "sources": [
+      "data\\raw\\double_bottom\\double_bottom_0350.jpg",
+      "data\\raw\\double_top\\double_top_0086.jpg"
+    ]
+  },
+  {
+    "sha256": "1290ec34ebf40c081c5214e21f9fe8ec4a259498aa4886b7ac1fa71ab895c5b4",
+    "labels": [
+      "double_top",
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\double_top\\double_top_0100.png",
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0027.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0164.png"
+    ]
+  },
+  {
+    "sha256": "dd60e75e3cb8c1b262c99df73b5c3570047432c6523b9bfafcf8744eebf0ffeb",
+    "labels": [
+      "double_top",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\double_top\\double_top_0163.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0048.jpg"
+    ]
+  },
+  {
+    "sha256": "07b8e51f055381ce7fdc560e93234a76b7ed3ceb9491853ee094004d4969bd9f",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0043.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0135.png"
+    ]
+  },
+  {
+    "sha256": "b233df82ae57eb33c23d574e507e3cb8cddd0390240f6751a9c5d62650cef8cb",
+    "labels": [
+      "falling_wedge",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0044.png",
+      "data\\raw\\pennant\\pennant_0103.png"
+    ]
+  },
+  {
+    "sha256": "e0d61a9335ed9a3db68c25a43db22fac1baed0e8772d6448cec1bda12e0086d8",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0048.webp",
+      "data\\raw\\rising_wedge\\rising_wedge_0045.webp"
+    ]
+  },
+  {
+    "sha256": "c7990671a9c042d70415eddad69a07dd0db025789c548fff3f2c612bf8b13500",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0058.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0166.png"
+    ]
+  },
+  {
+    "sha256": "68ae9504c5c584cbdf53441459e0fdfee88a91d1e3ac46fe795a8943077d1266",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0073.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0062.jpg"
+    ]
+  },
+  {
+    "sha256": "434f221c60d54a63b5b4d1703cabfdbfc67372b88b3207bd9b09fb4f6deb52c9",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0084.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0033.jpg"
+    ]
+  },
+  {
+    "sha256": "e7e7066701a043384711496ef106dfcd7a33f3f8bed7c3d4c925cf4ee153928b",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0085.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0030.jpg"
+    ]
+  },
+  {
+    "sha256": "d6e2aaecc95748700fea4e0f6a3d1f2ce00647c9dc67120d3f03b67ccdf4eb15",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0092.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0147.png"
+    ]
+  },
+  {
+    "sha256": "1998879173da9b804bd055314847da56ba811fd1c782c6a45efe79c6f354c381",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0118.webp",
+      "data\\raw\\rising_wedge\\rising_wedge_0214.webp"
+    ]
+  },
+  {
+    "sha256": "e1b45c81d2586058ada4051d234a564e20ad16f50518ec7b6be5fca40e53fe91",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0142.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0197.jpg"
+    ]
+  },
+  {
+    "sha256": "c434c307b7f8d02219c9f9b1e09960a9677c80d776d3514ad317aac3d789c4ea",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0156.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0169.jpg"
+    ]
+  },
+  {
+    "sha256": "b46ab71fc4d91769455d49362687f96bc9f58e62d0245a3a4ac4c46771288f0a",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0165.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0153.jpg"
+    ]
+  },
+  {
+    "sha256": "0d6930a4895cea545e75ccf023f742cb08a922400d2c0cedcc9a50855bc72015",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0171.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0159.jpg"
+    ]
+  },
+  {
+    "sha256": "71641dd636d52eabf32e9e1dcbc8edce23c2a8e5eeeb419c1bbba2d98bb7bd7b",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0192.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0165.png"
+    ]
+  },
+  {
+    "sha256": "a9d994587cd664ee56f4e2c6ec1a952d59d8cc7fe2caa2ddaca8d684acb37abf",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0195.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0191.png"
+    ]
+  },
+  {
+    "sha256": "9c2f0918974f9010affd5160a44e11795ba0c7c7417596b2b4274da97f45c837",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0200.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0043.png"
+    ]
+  },
+  {
+    "sha256": "58cb67c29ab1c8e765f6701e53005051725f0f0f2e0081990106b60adfab6f30",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0207.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0205.jpg"
+    ]
+  },
+  {
+    "sha256": "6319a51bfcb5dedda1c26a7f3413e1fb4dc858a10bcd6dbd3cc964a47e7da4b1",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0214.webp",
+      "data\\raw\\rising_wedge\\rising_wedge_0220.webp"
+    ]
+  },
+  {
+    "sha256": "3805b758a16c2d8327ecdf73f09c880332df0f9ee15e2dbc6bd2657f3328ef67",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0218.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0218.png"
+    ]
+  },
+  {
+    "sha256": "3acdf8e46050928366ea918e4906565110da647fa67c61caa9db1128ffb3a4a3",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0226.webp",
+      "data\\raw\\rising_wedge\\rising_wedge_0225.webp"
+    ]
+  },
+  {
+    "sha256": "53b361d2f2bb27ecb1e24de62b3106b568d725df36aced35cf142895e20eca7b",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0227.webp",
+      "data\\raw\\rising_wedge\\rising_wedge_0227.webp"
+    ]
+  },
+  {
+    "sha256": "6d7d0378be9d45812d8b817688ea0255c8a049265155a8e37b00c257d20332de",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0233.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0232.jpg"
+    ]
+  },
+  {
+    "sha256": "53f9cc0251f14d6e5b6a2d4b8cb4656f21fb82ddc2b8e15d84337e00cbd19a08",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0239.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0236.jpg"
+    ]
+  },
+  {
+    "sha256": "f86d2895309a57aa627b08d0c8c7d8100cae41a66c1c1f2ad6c8bd77ff6d696a",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0240.jpg",
+      "data\\raw\\rising_wedge\\rising_wedge_0237.jpg"
+    ]
+  },
+  {
+    "sha256": "5a485c9249c20f01ccda801b2fb21c0d331ac8816eb7d935a732d4793c1cd693",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0263.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0148.png"
+    ]
+  },
+  {
+    "sha256": "a67429fea2019dba1447da27b5996b73a9e67b1fa363f03e54edb21aebf7ede3",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0271.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0267.png"
+    ]
+  },
+  {
+    "sha256": "58aa93ef92daeb8ae4d11b0b1644f4929da0f7ef40660612096074a18b6e73c2",
+    "labels": [
+      "falling_wedge",
+      "rising_wedge"
+    ],
+    "sources": [
+      "data\\raw\\falling_wedge\\falling_wedge_0277.png",
+      "data\\raw\\rising_wedge\\rising_wedge_0109.png"
+    ]
+  },
+  {
+    "sha256": "ed954ea07d60db2bc664da2e7e090133c81a90dd866f8b02f5b98f79c42f6803",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0002.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0007.jpg"
+    ]
+  },
+  {
+    "sha256": "75f6a20ddb1386dcab59bcb05ae32dccdd5e6d1f7fdf238c35c6f45e21a2a42c",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0006.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0033.png"
+    ]
+  },
+  {
+    "sha256": "e67cfad085e578d2619fe0885c3ff30ca6e761c6dfc61c72b3e6e2f7e23235de",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0008.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0019.jpg"
+    ]
+  },
+  {
+    "sha256": "dac9af77ef90ad491d4eb16d4bc4c6669c8da46d536cb3d3051ec3efd50cd99d",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0009.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0191.jpg"
+    ]
+  },
+  {
+    "sha256": "c816ee98b8bda2f16177b9088b57bd00b671eb8ab548a6aa49e7d87792711232",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0010.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0269.png"
+    ]
+  },
+  {
+    "sha256": "c860781c0d96a3aa307993fc89fd07ffd3985d6251a8c3f6daf43697cbf1b7fc",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0023.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0062.jpg"
+    ]
+  },
+  {
+    "sha256": "a739bdbd6347871980b94d8e2ecec2bc1f62f6f694bf1265d1605f2f7919d94c",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0024.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0004.png"
+    ]
+  },
+  {
+    "sha256": "fda8d518d197b5e28c8564cd7573c149a641609f35b8b5b3cedda3eed8d68987",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0029.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0163.png"
+    ]
+  },
+  {
+    "sha256": "9d3eec9959193f4f50b10c85e4aa806bd7bc8705b0ff7ddf99e2971ed21dd5a1",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0030.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0002.jpg"
+    ]
+  },
+  {
+    "sha256": "1e45b614dbbc026f54943c9f2e10504d75ba7abe36bbb2d41536e49539ca60a7",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0032.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0129.jpg"
+    ]
+  },
+  {
+    "sha256": "38df84ed3cedf29c85697c012ab42a73b0d819c92ae674bf4dfacbce41a8961d",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0039.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0318.jpg"
+    ]
+  },
+  {
+    "sha256": "e469350f052bb5e04c109a2c5b2b1a964e21a903cf01b6fe89e275303731313a",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0040.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0043.jpg"
+    ]
+  },
+  {
+    "sha256": "d3a177790ab11e7c8f3e1db952377ee610f8fb495579f43c3e98b48e2fcaa541",
+    "labels": [
+      "head_and_shoulders",
+      "pennant"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0041.webp",
+      "data\\raw\\pennant\\pennant_0209.webp"
+    ]
+  },
+  {
+    "sha256": "e4e162bbc7cfc690669e5545cb6336a884077fba4fb17cdd5247855c799e4a97",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0046.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0134.jpg"
+    ]
+  },
+  {
+    "sha256": "2c2836915f16cc85f7c1af696f264927a5bfb42b65c95a9ab79fc795711bcd68",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0050.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0086.jpg"
+    ]
+  },
+  {
+    "sha256": "61e7637b35fc38c4666e47da24daaff74db23e0844824d8d31f8408b48a15a43",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0052.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0131.jpg"
+    ]
+  },
+  {
+    "sha256": "e176045bfa6ffe0a1dc978353f30600f7deb36ae3a8bd42faf45756600e9fe56",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0053.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0089.jpg"
+    ]
+  },
+  {
+    "sha256": "2395395b38617121788892b2bbe44c0d3063c292c17431ea83312064634e70b0",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0054.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0054.jpg"
+    ]
+  },
+  {
+    "sha256": "1a2360f20e9e4b549469512bbe4284c0fde0a79088e7cbe0be25796dbfc0d42e",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0062.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0053.webp"
+    ]
+  },
+  {
+    "sha256": "37396f0ef20e8f8be7be6633bd33bbc3aa36316d4300b1c5a025d6e3b15b4cdb",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0066.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0020.png"
+    ]
+  },
+  {
+    "sha256": "5b16c5165168fa26a87746aa578e97c64ec80ee23697e5b67b0dafb9819ef47a",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0067.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0329.png"
+    ]
+  },
+  {
+    "sha256": "010c5ee68931a5d89901e1a91193f0c0b909e6264812b86fac53e0ec034f6480",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0072.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0070.jpg"
+    ]
+  },
+  {
+    "sha256": "7291c5a1544987bb887bd26a62bdedde2ae8a101a99cdcdd56aea932eaca1516",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0073.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0071.png"
+    ]
+  },
+  {
+    "sha256": "d6823d65b88cf9937be22c208f9503d9c65b2773beb7dec858ba7330980e7bc4",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0077.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0226.png"
+    ]
+  },
+  {
+    "sha256": "c2e6ead775f400e7016a1dd25d8a188e95e3804b5aaf75e5631d407186facdad",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0133.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0160.png"
+    ]
+  },
+  {
+    "sha256": "4db9c477fbe7ef9b2c5c5707494833bb971d27130e5de57229b5b7644dfb25c7",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0134.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0006.webp"
+    ]
+  },
+  {
+    "sha256": "5be473d96677a1eb3b309dcf9e23117bbb9b26277c4f372b2cbbba53b324af11",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0135.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0013.png"
+    ]
+  },
+  {
+    "sha256": "53ea1992f3c3a8cabc739a9048be6abd129e66a53113bfa00aaba35b919a7db6",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0143.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0271.png"
+    ]
+  },
+  {
+    "sha256": "572b32754b37673c6a7d6ff123cc85f1f614d381bf8ef2ab7b42bb756fc7e64e",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0180.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0158.png"
+    ]
+  },
+  {
+    "sha256": "8a2380688c88207ef2a45b0b40bebd3e4e1216221c499c8670bdfc1aed3cae97",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0181.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0171.png"
+    ]
+  },
+  {
+    "sha256": "0d5ebfb7486c670fa06a2b2469cc0afeb4a3114fca8e4f779053678c27db1e13",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0189.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0150.jpg"
+    ]
+  },
+  {
+    "sha256": "aef68c3082d85e3ad1ca9d5fc822f24fc73d8a2ff2e936b0f50536b12f1b7d26",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0190.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0167.jpg"
+    ]
+  },
+  {
+    "sha256": "b8500ce0fa639d913b2af8c283344c4f6a1f42364a3a4f4a2226c99047f8bc55",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0200.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0176.jpg"
+    ]
+  },
+  {
+    "sha256": "2c3a3e4ada3c15cc0f31f5db814a9dd644aba023b8e874f8993d79da81786c6a",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0212.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0185.png"
+    ]
+  },
+  {
+    "sha256": "beb015d488123a363798540ee4748fd538bfbcfb60ceb25a079ac257a5129296",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0233.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0180.png"
+    ]
+  },
+  {
+    "sha256": "b0bd1c8d073d172f2d3e5c73d4f57bbb3931467cbf17034b318d0e0c3e22fb94",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0236.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0179.png"
+    ]
+  },
+  {
+    "sha256": "071e375bc313a758dbc01c5a9265d22e73763b2535e8a8488e5924fad43b90eb",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0262.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0199.jpg"
+    ]
+  },
+  {
+    "sha256": "f23df447c1424145a29db3371570a9d062f55f3a33a4e1c7a230bf262de7108d",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0263.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0200.jpg"
+    ]
+  },
+  {
+    "sha256": "987b91d23f022d0870293093d74304b208a8601f10c95240654144d1bf7d66af",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0264.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0201.jpg"
+    ]
+  },
+  {
+    "sha256": "c5b8a52c9ce14bd3944f01b793b32c6bbe4e45ce13c77d4c46f954b1028bbc41",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0265.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0202.jpg"
+    ]
+  },
+  {
+    "sha256": "1d1ac0594809fed032f6092cb4de5cb8338e740aa999b2e4deb9d0ab6245bb1a",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0266.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0203.jpg"
+    ]
+  },
+  {
+    "sha256": "882a7c65ac391ebd77f2bac4af28b36c65e92346716e9294b726dc4608fdf983",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0267.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0206.jpg"
+    ]
+  },
+  {
+    "sha256": "83d3d135504b8d712a939660cf58f10aab8674b82bfab1887138366aef9e6c6b",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0269.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0207.png"
+    ]
+  },
+  {
+    "sha256": "c45ba42f37f7f591cf6cefd31d9730047129c80258dda1d51416801672f315bd",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0270.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0209.jpg"
+    ]
+  },
+  {
+    "sha256": "cda548e83fa734e3e5da384671b8593c5e30fab710510eb9cbe995fbef429959",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0271.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0210.jpg"
+    ]
+  },
+  {
+    "sha256": "6daae0e8cc2606c226cda7864cdbab8bb7c96f7bc58629e08fdc0ee9967fa77d",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0272.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0211.jpg"
+    ]
+  },
+  {
+    "sha256": "ad3d0f69582779a39055d3023520154511283de9e767c635967d9221062023de",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0273.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0212.png"
+    ]
+  },
+  {
+    "sha256": "9962d78deb3bdc42251d930b58036bb79e987e367f87e86901541016f0b08727",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0274.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0215.png"
+    ]
+  },
+  {
+    "sha256": "bba1b2e84876dc574add6f4bedd572a57faa56fc817bc72ecfe9d81806d53359",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0275.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0213.png"
+    ]
+  },
+  {
+    "sha256": "42e487f66377bf91d33afb56f2322248c41795bd125765454b3d1c68a917d642",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0276.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0217.png"
+    ]
+  },
+  {
+    "sha256": "be7c8e2bc205d1aa97f1ffa8a899bc8dcb91526f74f61d95a89fab78425d42aa",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0280.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0218.png"
+    ]
+  },
+  {
+    "sha256": "f232ce7b78da09a3d80634b43beb2b5b853e940eea0df48157b59c36eeffce71",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0282.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0224.webp"
+    ]
+  },
+  {
+    "sha256": "c69a5541e0011b1be3a3bb59c8a7d67b8b4796a08b74b69c0c4e9eac27572576",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0283.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0225.webp"
+    ]
+  },
+  {
+    "sha256": "6c208ad68769c35f30bd2eac0d124ea439260acc0a9af91b74ccc8ea4cf13fab",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0287.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0221.jpg"
+    ]
+  },
+  {
+    "sha256": "f828dc276e75376879619fb27fec71e69a480c3c688177e38c44fea141678f91",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0297.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0228.webp"
+    ]
+  },
+  {
+    "sha256": "2cc3a696062a8c95b34f0b60a2aca9bb405a268a66ea816f0e4cf0b7ba378462",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0298.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0229.png"
+    ]
+  },
+  {
+    "sha256": "14227c517bebb724912a08b1790fa70c8e5366b85bb6efb52a9a7a39bcfa44bd",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0299.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0243.png"
+    ]
+  },
+  {
+    "sha256": "b3c5b7bc119fd98185b58270bdb59e34b0653bdc87b14c0fcc273465ab1148bb",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0301.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0232.webp"
+    ]
+  },
+  {
+    "sha256": "939a01af6976351568c9c67b3e873ee5bbaa1cbd3734458dee795fa7761c7d44",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0302.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0230.jpg"
+    ]
+  },
+  {
+    "sha256": "b330a0f9715c44c4089384de656994573623d758742643d7cb083df6ee7f648c",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0303.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0231.png"
+    ]
+  },
+  {
+    "sha256": "a77787a2107f35c56a522fc18a59eca9d98d97cb71670628bb1e31e81b71092e",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0309.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0235.jpg"
+    ]
+  },
+  {
+    "sha256": "74b02fab89f9613c13fb3e8d8219624aae24b87b4621459e710ab4ffa13ac5bf",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0310.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0331.jpg"
+    ]
+  },
+  {
+    "sha256": "08c38a75a4c648c2c8176ddc5bfacd45d7bc9f3ea16137011b6e4521a0e2bb67",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0312.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0236.jpg"
+    ]
+  },
+  {
+    "sha256": "b5b6ee518a3e4dc07129b7b2c72ddd7c395c26100653b102cb80c5109ba19d25",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0313.webp",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0234.webp"
+    ]
+  },
+  {
+    "sha256": "3a6194e743a13f8b31d1c9037c76c9633eec6a9b9af873f8cdab08b65a1b3a03",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0316.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0239.jpg"
+    ]
+  },
+  {
+    "sha256": "c06bc2031520f5b00bdfb04ae8255809056456b48acd676100918cf76d6f3927",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0322.jpg",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0244.jpg"
+    ]
+  },
+  {
+    "sha256": "c5830a1c32ee30bda43f2e361dd2c2328f585d68efafb54d256ffcb5326eebdf",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0327.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0267.png"
+    ]
+  },
+  {
+    "sha256": "701c084cd67b9dd4980f4048b7fc49a5c65b2c03a45c327f365f9c3774801001",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0330.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0268.png"
+    ]
+  },
+  {
+    "sha256": "a029991bacebb98dcf1d3c1bc5a92db543d4898c6b15abccefe77df00aca4164",
+    "labels": [
+      "head_and_shoulders",
+      "inverse_head_and_shoulders"
+    ],
+    "sources": [
+      "data\\raw\\head_and_shoulders\\head_and_shoulders_0348.png",
+      "data\\raw\\inverse_head_and_shoulders\\inverse_head_and_shoulders_0272.png"
+    ]
+  }
+]
